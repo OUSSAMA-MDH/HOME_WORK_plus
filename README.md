@@ -59,4 +59,6 @@ This project is a Python-based management system for a youth association. The pr
 ## **How to Run**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/OUSSAMA-MDH/association_project.git
+   
+   git clone https://github.com/OUSSAMA-MDH/HOME_WORK_plus.git
+
