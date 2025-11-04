@@ -1,0 +1,5 @@
+full_name,email,phone,address,join_date,major,skills,interests,subscription_status
+Ahmed Ali,ahmed.ali@example.com,0555123456,Oran,2024-09-01,Quran,Recitation,Hifz,Paid
+Sara Ben,sara.ben@example.com,0555987654,Algiers,2024-09-05,Quran,Teaching,Tajweed,Pending
+Youssef Hamid,youssef.hamid@example.com,0555345678,Blida,2024-09-10,Hifz,Hifz,Community Service,Paid
+Fatima Noor,fatima.noor@example.com,0555765432,Setif,2024-09-12,Recitation,Recitation,Memorization,Pending
